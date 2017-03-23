@@ -1,0 +1,71 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2015
+
+# Custom your favicon.ico in `site/source`
+favicon: /favicon.ico
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: false
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  Home: /
+  Archives: /archives
+  Bio: /bio
+  Tags: /tags
+  # Categories: /categories
+  About: /about
+
+# ===========================================
+# Theme Settings
+# ===========================================
+# theme styling
+# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
+theme:
+  color: Lime
+  toc: true
+  search: true
+  fancybox: true
+
+copyright:
+  enable: false
+  # https://creativecommons.org/
+  license: 'This article uses <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative Commons Attribution - NonCommercial 4.0 International License Agreement</a> for licensing'
+
+reward:
+  enable: false
+  qrCode:
+    wechat: /image/reward/wechat.png
+    alipay: /image/reward/alipay.png
+
+# ===========================================
+# Social links Settings
+# ===========================================
+social:
+  linkedin: https://www.linkedin.com/in/lelerabino/
+  github: https://github.com/lelerabino
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# Google Analytics
+google_analytics:
+
+# Duoshuo
+duoshuo_shortname:
+# Disqus
+disqus_shortname: lelerabino-blog
+
+# ===========================================
+# Version
+# ===========================================
+version: 2.3.x
