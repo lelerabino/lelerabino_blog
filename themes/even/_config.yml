@@ -3,10 +3,10 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
-favicon: /favicon.ico
+favicon: favicon.ico
 
 # Set feed link (false | default | your feed link)
 # false: disable
