@@ -19,7 +19,7 @@ rss: false
 menu:
   Home: /
   Archives: /archives
-  Bio: /bio
+  # Bio: /bio
   Tags: /tags
   # Categories: /categories
   About: /about
