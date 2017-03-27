@@ -114,7 +114,7 @@
   Even.fancybox = function () {
     if ($.fancybox){
       $('.post').each(function () {
-        $(this).find('img').each(function () {
+        $(this).find('img').not('.nofancybox').each(function () {
           $(this).wrap('<a class="fancybox" href="' + this.src + '" title="' + this.alt + '"></a>');
         });
       });

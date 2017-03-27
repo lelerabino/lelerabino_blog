@@ -2,3 +2,19 @@
 // Custom style
 // ==============================
 // You can override the variables in _variables.scss to customize the style
+
+.highlight1 {
+ font-size: 1.5em;
+}
+
+.highlight2 {
+  font-size: 1.3em;
+}
+
+.circular--square {
+  border-radius: 50%;
+}
+
+.home-true .post-content img {
+  display: none;
+}
