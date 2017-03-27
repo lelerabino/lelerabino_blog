@@ -1,8 +1,13 @@
 ---
 title: Hello World
 date: 2017-03-23 17:29:51
-tags:
+tags: [announcement, blog]
 ---
+My name is Emanuele Rabino.
 
-## Hello world!
-Today I'm happy to start blogging!
+<span class="highlight1">Call me Lele.</span>
+
+I'm an italian web developer and this is my blog.
+I will write about software development, digital photography, life, but not only ...
+
+<span class="highlight2">Welcome on board and ... enjoy the read :)</span>
