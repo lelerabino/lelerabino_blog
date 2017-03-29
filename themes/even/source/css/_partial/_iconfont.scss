@@ -53,6 +53,13 @@
   position: relative;
   top: -3px;
 }
+.icon-500px:before {
+  content: "5∞";
+  font-size: .75em;
+  font-family: "Tahoma";
+  position: relative;
+  top: -3px;
+}
 .icon-rss:before {
   content: "\e604";
 }
@@ -71,13 +78,13 @@
 
 /* Generic Icon */
 .icon-heart:before {
-  content: "\e608"; 
+  content: "\e608";
 }
-.icon-right:before { 
+.icon-right:before {
   content: "\e60a";
 }
 .icon-left:before {
-  content: "\e60b"; 
+  content: "\e60b";
 }
 .icon-up:before {
   content: "\e60c";
