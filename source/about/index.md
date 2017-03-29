@@ -11,8 +11,13 @@ comments: false
 * Agile discoverer.
 * Photography newcomer.
 
-# Values
-* Always looking for the essence of things.
-* Authoritativeness please, not authority
+# My Values
+* People first.
+* Quality.
+* I firmly believe in the [Agile Manifesto](http://agilemanifesto.org/).
+* Looking for the inherent complexity. Avoid over-engeneering and also avoid ignoring existing complexity. 
+* Authoritativeness please, not authority.
+* Transparency.
+* Right balance between analysis and empirical experimentation.
 
 [A curriculum vitae Resume](https://drive.google.com/file/d/0B9yb1lrQ93wqM1JFNXlQOXRwa28/view)
