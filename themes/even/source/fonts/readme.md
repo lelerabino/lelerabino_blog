@@ -1,0 +1,1 @@
+I've used this font for the simpleLogo.png: http://www.1001freefonts.com/handlee.font

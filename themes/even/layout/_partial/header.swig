@@ -1,5 +1,5 @@
 <div class="logo-wrapper">
-  <a href="{{ url_for('.') }}" class="logo"> <img src="/images/logo.png" alt="{{ config.title }}"></a>
+  <a href="{{ url_for('.') }}" class="logo"> <img src="/images/logoSimple.png" alt="{{ config.title }}"></a>
 </div>
 
 <nav class="site-navbar">
