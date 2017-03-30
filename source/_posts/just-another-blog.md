@@ -19,7 +19,9 @@ And below I want to share my specific motivations:
 
 4. As a developer, design and implement simply are not enough: I believe in the power of a **team** and, with a wider perspective, of the whole community; that's why in my opinion the ability to convey with the right **language** the concepts, the experience and to listen to feedback is simply essentials. Blogging is one way to train this skill.
 
-5. To improve **my English**! I must apologize for my very basic level and for my mistakes, but I don't want that my first language (Italian) to be a bottleneck for a potential friend, collaborators or simply interesting people.
+5. Because a blog is, after all, a (small) **piece of web** and I am a web developer. This way I can use it as a perfect container for my tests.
+
+6. To improve **my English**! I must apologize for my very basic level and for my mistakes, but I don't want that my first language (Italian) to be a bottleneck for a potential friend, collaborators or simply interesting people.
 
 # Why Now?
 Another question that I posed to myself when I started this blog was: _why now?_.
