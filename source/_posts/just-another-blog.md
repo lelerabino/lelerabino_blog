@@ -3,12 +3,14 @@ title: Just another Blog?!
 date: 2017-03-27 14:29:50
 tags: [blog, life]
 ---
-<img class="nofancybox img-post" src="https://drscdn.500px.org/photo/192123781/m%3D2048/da514ef874d86ec906e0a939cdcf05be" alt="green field"/>
 # Quick answer
 >Yes, precisely, this is just another blog.
 
 And below I want to share my specific motivations:
 <!-- more -->
+<a href="https://500px.com/photo/192123781/dsc-by-emanuele-rabino">
+    <img class="nofancybox img-post" src="{% post_path just-another-blog %}/blog-0.jpg" alt="green field"/>
+</a>
 # Why am I blogging?
 
 1. To force myself fighting **stagnation and laziness**. Blogging is a tangible proof of a journey. 
