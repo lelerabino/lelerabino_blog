@@ -13,8 +13,11 @@ But, in this case, I think that the advantages  behind the extraordinary diffusi
 ## Why a static generated website?
 I could list many reasons that makes static site generator a convenient choice:
 * lightweight and cheap hosting: being just static assets you don't need any type of runtime/server/middleware/CMS from the hosting provider. 
-* fast: the browser and the webserver are just communicating through HTTP exchanging plain HTML documents (and CSS/images/Javascript) using all the feature of the web platform, such as caching (browser, CDN), standard hyperlinks, SEO-friendly stuff, loading and rendering time and so on.
-* 
+* fast: the browser and the webserver are just communicating through HTTP exchanging plain HTML documents (and CSS/images/Javascript) using all the feature of the web platform, such as caching (browser, CDN), standard hyperlinks and so on.
+* SEO-friendly by design.
 
-
-
+All these reasons are true, but I think that the most important concept resides in the _specific domain_ that we are facing.
+After all, what is the target? It's **blogging**! And what blogging means for my needs? Ok, let's try to list the _requirements_: 
+* I want to be able to post some **article**.
+* I want also add some static **pages**
+* The frequency? I think _one day_ it's a rasonable maximum
