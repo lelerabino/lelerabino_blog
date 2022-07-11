@@ -84,3 +84,4 @@ search:
 deploy:
   type: git
   repo: https://github.com/lelerabino/lelerabino.github.io.git
+  keep_hidden_file: true
