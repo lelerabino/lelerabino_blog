@@ -4,21 +4,24 @@ layout: page
 comments: false
 ---
 <h1>About the Author</h1><img class="nofancybox circular--square" src="/images/avatar_small.png" alt="my avatar"/>
-* (Junior) passionate father.
+
+* Husband and father practitioner.
 * Passionate full stack developer (JS, node, .net, asp.net).
-* Agile discoverer.
-* Photography newcomer.
+* DDD follower and  practitioner.
+* Recently inspired by Functional Programming. 
+* Hobbies: photography, tennis, mountains.
 
 <h1>Lele's Values</h1>
+
 * People first.
 * Quality.
 * I firmly believe in the [Agile Manifesto](http://agilemanifesto.org/).
-* Looking for the inherent complexity. Avoid over-engeneering and also avoid ignoring existing complexity. 
+* Looking for the inherent complexity. Avoid over-engineering and also avoid ignoring existing complexity. 
 * Authoritativeness please, not authority.
 * Transparency.
 * Right balance between analysis and empirical experimentation.
 
-[A curriculum vitae Resume](https://drive.google.com/file/d/0B9yb1lrQ93wqM1JFNXlQOXRwa28/view)
+[A curriculum vitae Resume](https://lelerabino.github.io/online-cv/)
 
 <h1 id="copyright">Copyright</h1>This site is copyright © Emanuele Rabino 2017. Content by the author is licensed under a Creative Commons License <a href="http://creativecommons.org/licenses/by/4.0/deed.en_GB" target="_blank" rel="external">CC BY 4.0</a>. Other content is copyright their respective owners.
 
